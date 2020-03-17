@@ -1,0 +1,5 @@
+build/
+*.pro
+*.pro.user*
+tests.h
+tests.cpp
